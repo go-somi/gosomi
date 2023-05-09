@@ -38,7 +38,7 @@ let clickChangeFruit = false;
 let adLink = 'https://twitter.com/gosomi___';
 
 // 修改网页标题：将 "合成大西瓜" 进行替换
-document.getElementsByTagName("title")[0].innerText = 'RickyGame';
+document.getElementsByTagName("title")[0].innerText = 'Ricky-Game';
 
 // 开启选分弹窗：将 false 改为 true
 let selectModal = false;
